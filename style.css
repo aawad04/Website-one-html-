@@ -1,6 +1,6 @@
 body{
     background-color: rgb(0, 0, 85);
-background-image:url('../galaxy-fotor-20231011231552.jpg');
+background-image:url('../media/images/videos/galaxy-fotor-20231011231552.jpg');
 background-attachment:fixed;
 background-repeat: no-repeat;
 background-size: cover;
@@ -34,12 +34,12 @@ min-height: 100vh;
 
 @font-face {
     font-family: "pixels";
-    src: url("../pcsenior.ttf");
+    src: url("../media/pcsenior.ttf");
 }
 .yt{
     position: absolute;
     top: 230px;
-    left: 50px;
+    left: 150px;
     width: 100px;
     
 }
@@ -47,7 +47,7 @@ min-height: 100vh;
 .yt2{
     position: absolute;
     top: 230px;
-    left: 950px;
+    left: 850px;
     z-index: 1;
  
 }
@@ -59,7 +59,7 @@ min-height: 100vh;
 
     text-decoration: underline;
     color: rgb(70, 123, 220);
-    font-size: 25px;
+    font-size: 23px;
     font-family: pixels;
 
 
@@ -67,10 +67,10 @@ min-height: 100vh;
 
 .sonicpic{
     position: relative;
-    top:155px ;
+    top:225px ;
     left: 600px;
     width:240px;
-    height: 280px;
+    height: 310px;
 }
 
 .yt3{
@@ -82,26 +82,27 @@ min-height: 100vh;
 .game{
 
     position: relative;
-    top: 550px;
+    top: 600px;
     left: 630px;
     width: 500px;
+    height: 300px;
 }
 
 .yt4{
     position: relative;
     left: -430px;
-    top: 750px;
+    top: 100px;
 }
 
 .yt5{
     position: relative;
     left: 350px;
-    top: 200px;
+    top: 300px;
 }
 
 .Pactext{
 position: relative;
-    top: 120px;
+    top: -100px;
     left: 45px;
     text-decoration: underline;
     color: rgb(255, 123, 123);
@@ -113,10 +114,62 @@ position: relative;
     width: 300px;
     height: 300px;
     position: relative;
-    top: 500px;
+    top: 610px;
     left: -700px;
 }
 
+.yt6{
+    position: relative;
+    top: 250px;
+    left: 30px;
+}
 
+.yt7{
+    position:relative;
+    top: 250px;
+    left: 30px;
+
+}
+
+.Mario3{
+    position: relative;
+    width: 470px;
+    height: 300px;
+    top: 250px;
+    left: 30px;
+}
+
+.banddit{
+    position: relative;
+    top: 330px;
+    left: -350px;
+}
+
+.bandpic{
+    position: relative;
+    top: 330px;
+    left: 630px;
+    height: 295px;
+}
+
+.smb{
+    position: relative;
+    top: -450px;
+    left: 45px;
+    text-decoration: underline;
+    color: rgb(133, 255, 186);
+    font-size: 25px;
+    font-family: pixels;  
+}
+
+.cnn{
+    position: relative;
+    top: -150px;
+    left: 45px;
+    text-decoration: underline;
+    color: rgb(255, 209, 178);
+    font-size: 25px;
+    font-family: pixels;   
+}
 
 
