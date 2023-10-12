@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(0, 0, 85);
+background-image:url('../galaxy-fotor-20231011231552.jpg');
+background-attachment:fixed;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-size: cover;
+min-height: 90vh;
+min-height: 100vh;
+  
+
+}
+
+.header {
+    z-index: 1;
+    top: 30px;
+    left: 60px;
+    text-align: center;
+    color: #b4000a;
+    position: absolute;
+    font-size: 13px;
+    font-family: 'pixels';
+    position: absolute;
+    display: block;
+    background-color: #ffbabe;
+        width: 86%;
+       padding-top: 5px;
+       padding-bottom: 5px;
+       padding-left: 1%;
+       padding-right: 1%;
+       border: 6px dashed;
+}
+
+@font-face {
+    font-family: "pixels";
+    src: url("../pcsenior.ttf");
+}
+.yt{
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    width: 100px;
+    
+}
+
+.yt2{
+    position: absolute;
+    top: 230px;
+    left: 950px;
+    z-index: 1;
+ 
+}
+
+.sonic{
+    position: absolute;
+    top: 145px;
+    left: 30px;
+
+    text-decoration: underline;
+    color: rgb(70, 123, 220);
+    font-size: 25px;
+    font-family: pixels;
+
+
+}
+
+.sonicpic{
+    position: relative;
+    top:155px ;
+    left: 600px;
+    width:240px;
+    height: 280px;
+}
+
+.yt3{
+    position: relative;
+    top: 200px;
+    left: -230px;
+}
+
+.game{
+
+    position: relative;
+    top: 550px;
+    left: 630px;
+    width: 500px;
+}
+
+.yt4{
+    position: relative;
+    left: -430px;
+    top: 750px;
+}
+
+.yt5{
+    position: relative;
+    left: 350px;
+    top: 200px;
+}
+
+.Pactext{
+position: relative;
+    top: 120px;
+    left: 45px;
+    text-decoration: underline;
+    color: rgb(255, 123, 123);
+    font-size: 25px;
+    font-family: pixels;
+}
+
+.pacmann{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 500px;
+    left: -700px;
+}
+
+
+
+
